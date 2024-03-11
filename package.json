@@ -1,0 +1,23 @@
+{
+    "name": "fitness-app-website",
+    "version": "1.0.0",
+    "description": "Fitness App Website",
+    "main": "index.js",
+    "scripts": {
+      "start": "http-server -c-1"
+    },
+    "keywords": [
+      "fitness",
+      "progressive",
+      "web",
+      "app",
+      "complete",
+      "healthy"
+    ],
+    "author": "Maximilian Schwarzmüller",
+    "license": "ISC",
+    "devDependencies": {
+      "http-server": "^0.10.0"
+    }
+  }
+  
